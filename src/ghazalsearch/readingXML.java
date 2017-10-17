@@ -7,7 +7,7 @@ package ghazalsearch;
 
 /**
  *
- * @author Poopy_Babez
+ * @author yetItCompiles
  */
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
